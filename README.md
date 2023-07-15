@@ -9,7 +9,7 @@ In Object Tracking there are two types..
 
 #Requirnements 
 
-1 . Python \n
+1 . Python 
 2 . cv2( opencv-python)
 3 . Any Development Environment( PyCharm Recomended)
 4 . Good Quality Camera,either of your system webcam or external web cam
